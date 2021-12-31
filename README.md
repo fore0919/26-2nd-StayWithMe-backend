@@ -1,7 +1,6 @@
 # 🙌 안녕하세요. Staywithme 입니다!
 
 [데모영상](https://youtu.be/y1cSL6Nd-Io)
-https://youtu.be/y1cSL6Nd-Io
 
 ## 🗺  스테이폴리오 클론 프로젝트
 🛋  스테이폴리오를 모티브로 하여 학습목적으로 진행한 클론 코딩 프로젝트 입니다.<br>
