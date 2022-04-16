@@ -58,6 +58,11 @@ Styled-Components, JavaScript(ES6)
 - Back-End : Python, Django web framework, JWT, MySQL, AWS(EC2,RDS), Docker, RESTful API
 - 협업툴 : Trello, Slack, Notion, Github, dbdiagram, postman
 
+### ERD
+![Stay with me](https://user-images.githubusercontent.com/91520365/163683460-20a66cc5-aa5b-41c3-b101-30ddecf684bc.png)
+보러가기 👉🏻 https://dbdiagram.io/d/619248ce02cf5d186b566466
+
+
 ## 📝 후기
 #### 1. 권은경
 * Django ORM중 Filter 기능을 이용해 복잡한 필터기능과 Q객체 등을 사용하여 GET 메소드에서 활용할 수 있는 여러 요소들을 직접 적용 해볼 수 있었고, 모델의 참조 관계에 대해서 더 정확한 개념을 이해하게 되었습니다. 
